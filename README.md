@@ -75,8 +75,8 @@ Example: when the user entered number 4 for the multiplication table.
 This is for the partial multiplication table.
 
 Example: if the user entered 8 for the multiplication table.
-          Entered 7 has the startqing number
-          Entered 3 has the ending number
+          Entered 7 as the starting number
+          Entered 3 as the ending number
 
 ![run_partial](Project_1_images/run_partial.jpg)
 
