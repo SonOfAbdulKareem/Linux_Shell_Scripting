@@ -15,8 +15,8 @@
 **Conditional Logic:** Use if-else statements to handle the logic based on the user's choices (full vs. partial table and valid range input).
 
 **Input Validation:** Ensure that the user enters valid numbers for the multiplication table and the specified range. Provide feedback for invalid inputs and default to a full table if the range is incorrect.
-**
-Readable Output:** Display the multiplication table in a clear and readable format, adhering to the user's choice of range.
+
+**Readable Output:** Display the multiplication table in a clear and readable format, adhering to the user's choice of range.
 
 **Comments and Code Quality:** Your script should be well-commented, explaining the purpose of different sections and any important variables or logic used. Ensure the code is neatly formatted for easy readability.
 
